@@ -11,10 +11,10 @@ This project compares multiple strategies for solving the multi-armed bandit pro
 
 ## Summary of Results
 
-The experiments were run for 1000 trials. The plot (`mab_comparison.png`) shows:
-
 # MAB Comparison
 ![MAB Comparison](mab_comparison.png)
+
+The experiments were run for 1000 trials. The plot shows:
 
 
 - **Cumulative Regret**: UCB and Epsilon-Greedy consistently maintain lower regret than the others.
