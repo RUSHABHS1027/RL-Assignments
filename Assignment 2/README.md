@@ -9,11 +9,11 @@ This project compares multiple strategies for solving the multi-armed bandit pro
 - Epsilon-Greedy (ε = 0.1)
 - Upper Confidence Bound (UCB)
 
-## Summary of Results
-
-# MAB Comparison
+## MAB Comparison Plot
 ![MAB Comparison](mab_comparison.png)
 
+
+## Summary of Results
 The experiments were run for 1000 trials. The plot shows:
 
 
